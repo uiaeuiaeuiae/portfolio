@@ -36,7 +36,7 @@ For anyone interested in some technical details:
 
 ## Hobby Projects
 
-### Unfinished Work in Progress
+### Unnamed (Work in Progress)
 
 This game is my current work in progress. Inspired by some .io games and Mount&Blade I wanted to make a top-down game where you can put your 2D fighters into a preset formation or one of your own choosing, and easily switch between them. 
 
@@ -61,7 +61,7 @@ Some technical details:
 ### My First game: Dig Simulator
 
 When I was 16 I programmed this masterpiece in javascript with the HTML canvas as the "engine". The game has a basic particle system and procedurally generated levels.A friend of mine did the UI/HTML parts of it. You play as a blue square trying to mine as much downward as possible, craft bombs and use them. Upgrade your vision radius, bombs and drill. Every level has an Enemy in it, if it smells more cash on you than it has, it will come for you immediately, otherwise it will mind it's own business until you come across it's tunnels.  
-You can play it here: TODO INSERT LINK
+You can play it [here, (hosted on my friend's site)](https://codepen.io/TurtleTurret/full/OXoGxj). 
 
 For some technical details, will bore many but might amuse some:
 <details>
@@ -76,14 +76,23 @@ Some technical issues I faced during development include: terrible performance.
 </details>
 
 ## More University Projects
-The next university projects aren't really games for the sake of being games but more like games for the sake of using specific technology.  
-One Project was using 3D Pose estimation for a game which resulted in this game:  
-TODO INSERT IMAGE
+
+The next university projects aren't really games for the sake of being games but more like games for the sake of using specific technology.
+
+#### 3D Pose Estimation
+One Project was about using 3D Pose estimation which resulted in this game:
+<details>
+  <summary>Screenshot</summary>
+ <img src="https://raw.githubusercontent.com/uiaeuiaeuiae/portfolio/main/Img/poseestimation.PNG" alt="poseestimation.PNG" />
+</details>
   
 The gameplay consists of memorizing movements of how to move your arms to activate spells to defeat the enemies before they defeat you.  
 It's a bit janky, because it works with all cameras, and most cameras not purpose built for real time computer vision suffer from horrible latency issues. In this game it's not that bad because the player is not reacting to anything but planning the next spell. The other issue is the frame-rate of the estimation. The pose estimation neural net that we were provided is quite heavy and on a bad day you can easily miss out on a 10th of a second, which is enough to miss out on a gesture if you're moving as quick as possible. In summary, had we had been provided special cameras it would've been a much better situation.
 
-  
+#### Sound design
 The next Game was a small final project of the Audio for Games course, where we got an introduction to sound design for games.
-In this game the objective was to use some sound effects. We made a racing game and included some sound effects. Exhaust gurgling when easing off the throttle or shifting, tire screeching when breaking or accelerating too hard as well as modelling the engine gearbox to achieve a somewhat realistic sound. We ended up with something that sounds similar to early 2000 racing games. We also put in some tunnels just so we could put in reverb and echo.
-
+In this game the objective was to use some sound effects. We made a racing game and included the follwing: Exhaust gurgling when easing off the throttle or shifting, tire screeching when breaking or accelerating too hard as well as modelling the engine gearbox to achieve a somewhat realistic sound. We ended up with something that sounds similar to early 2000 racing games. We also put in some tunnels just so we could put in reverb and echo. A [trailer](http://www.youtube.com/watch?v=9ZCdDPlnlk4 "Tron Racing Trailer") exists but the music is so loud you can't hear the game sounds. 
+<details>
+  <summary>Screenshot</summary>
+ <img src="https://raw.githubusercontent.com/uiaeuiaeuiae/portfolio/main/Img/tronracing.PNG" alt="tronracing.PNG" />
+</details>
