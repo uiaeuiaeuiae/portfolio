@@ -7,6 +7,7 @@ This temporary site is just to show some of my university and hobby game project
 In my free time I like to program games, play electric guitar, play games of all kinds with friends i.e. video, board, and pen and paper games.
 Other hobbies of mine include getting around on 2 wheels, mostly bicycling and motorbike riding.
 When I'm alone and just want to relax I love to read books like The Way of Kings and some Manga.
+I love listening to music, while programming or reading or just because. My favorite artists include Lana Del Rey, Electric Wizard, Kyuss and the Black Keys.
 
 ### Skills
 - Unity 3D and C#, as this is the game framework that I have used the most I feel very comfortable with it
