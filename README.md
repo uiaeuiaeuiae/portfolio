@@ -2,6 +2,19 @@
 I'm Sam, an aspiring junior game dev from Germany.  
 This temporary site is just to show some of my university and hobby game projects.
 
+### About Me
+
+In my free time I like to program games, play electric guitar, play games of all kinds with friends i.e. video, board, and pen and paper games.
+Other hobbies of mine include getting around on 2 wheels, mostly bicycling and motorbike riding.
+When I'm alone and just want to relax I love to read books like The Way of Kings and some Manga.
+
+### Skills
+- Unity 3D and C#, as this is the game framework that I have used the most I feel very comfortable with it
+- C++, during my research assistant work I have worked with heavily templated codebases. I feel comfortable enough in C++ and the STL to do most tasks in it, but am by no means an expert
+- HLSL, I have written many shaders in HLSL for DirectX and Unity projects, some can be seen in action in the game Kingdom Dawn under my University Projects.
+- Java, this is the language I have used the most outside of Game Development, I have created for my Bachelor Thesis a multithreaded and fully networked system using Java's Secure Sockets for BLS Elliptic Curve Threshold Signatures, wrapping the MIRACL crypto library and using their elliptic curve implementation to implement all protocol logic. The resulting system is very versatile in that it supports the most prominent elliptic curves of 100-256bits security level.
+- DirectX, I have created a bare-bones 3D Game using C++, DirectX and HLSL. Sometime I would like to try myself at creating a VR game using the OpenVR API, C++ and DirectX or another Graphics API in the future.
+
 ## University Projects
 
 ### Kingdom Dawn
