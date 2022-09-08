@@ -60,7 +60,12 @@ Some technical details:
 
 ### My First game: Dig Simulator
 
-When I was 16 I programmed this masterpiece in javascript with the HTML canvas as the "engine". The game has a basic particle system and procedurally generated levels.A friend of mine did the UI/HTML parts of it. You play as a blue square trying to mine as much downward as possible, craft bombs and use them. Upgrade your vision radius, bombs and drill. Every level has an Enemy in it, if it smells more cash on you than it has, it will come for you immediately, otherwise it will mind it's own business until you come across it's tunnels.  
+<details>
+  <summary>Screenshot</summary>
+ <img src="https://raw.githubusercontent.com/uiaeuiaeuiae/portfolio/main/Img/digsim2.PNG" alt="digsim2.PNG" />
+</details>
+
+When I was 16 I programmed this masterpiece in javascript with the HTML canvas as the "engine". The game has a basic particle system and procedurally generated levels with ore veins. With each stage new ores get phased in and old ones get phased out. A friend of mine did the UI/HTML parts of it. You play as a blue square trying to mine as much downward as possible, craft bombs and use them. Upgrade your vision radius, bombs and drill. Every level has an Enemy in it, if it smells more cash on you than it has, it will come for you immediately, otherwise it will mind it's own business until you come close enough.  
 You can play it [here, (hosted on my friend's site)](https://codepen.io/TurtleTurret/full/OXoGxj). 
 
 For some technical details, will bore many but might amuse some:
@@ -74,6 +79,8 @@ Some technical issues I faced during development include: terrible performance.
   For this I ended up implementing some sort of list of particles that had a time to live and direction that was iterated every frame. I then ended up using the same system for animating the digging, which is just a bunch of pixels spraying from the center of a block into random directions. If you made it this far, thank you for reading!
  </p>
 </details>
+
+
 
 ## More University Projects
 
