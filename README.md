@@ -5,6 +5,7 @@ This temporary site is just to show some of my university and hobby game project
 ## University Projects
 
 ### Kingdom Dawn
+
 Watch the trailer here:  
 [![Trailer](http://img.youtube.com/vi/VrJTRM2MyzY/0.jpg)](http://www.youtube.com/watch?v=VrJTRM2MyzY "KingdomDawn Trailer")  
 
@@ -27,6 +28,12 @@ For anyone interested in some technical details:
   </p>
 </details>
 
+<details>
+  <summary>Unpopulated World Screenshots</summary>
+  <img src="https://raw.githubusercontent.com/uiaeuiaeuiae/portfolio/main/Img/world2.PNG" alt="world2.PNG" />
+  <img src="https://raw.githubusercontent.com/uiaeuiaeuiae/portfolio/main/Img/world1.PNG" alt="world1.PNG" />
+</details>
+
 ## Hobby Projects
 
 ### Unfinished Work in Progress
@@ -42,6 +49,13 @@ Some technical details:
   <p>
   Some different unit classes are in the game, fighters, wizards, archers and javelin throwers, which are just fighters with a few throwing spears that they will chuck before they're in melee range.
   </p>
+</details>
+
+<details>
+  <summary>Screenshots</summary>
+ <img src="https://raw.githubusercontent.com/uiaeuiaeuiae/portfolio/main/Img/Formation.PNG" alt="Formation.PNG" />
+ <img src="https://raw.githubusercontent.com/uiaeuiaeuiae/portfolio/main/Img/fight1.PNG" alt="fight1.PNG" />
+  <img src="https://raw.githubusercontent.com/uiaeuiaeuiae/portfolio/main/Img/fight2.PNG" alt="fight2.PNG" />
 </details>
 
 ### My First game: Dig Simulator
@@ -61,4 +75,15 @@ Some technical issues I faced during development include: terrible performance.
  </p>
 </details>
 
+## More University Projects
+The next university projects aren't really games for the sake of being games but more like games for the sake of using specific technology.  
+One Project was using 3D Pose estimation for a game which resulted in this game:  
+TODO INSERT IMAGE
+  
+The gameplay consists of memorizing movements of how to move your arms to activate spells to defeat the enemies before they defeat you.  
+It's a bit janky, because it works with all cameras, and most cameras not purpose built for real time computer vision suffer from horrible latency issues. In this game it's not that bad because the player is not reacting to anything but planning the next spell. The other issue is the frame-rate of the estimation. The pose estimation neural net that we were provided is quite heavy and on a bad day you can easily miss out on a 10th of a second, which is enough to miss out on a gesture if you're moving as quick as possible. In summary, had we had been provided special cameras it would've been a much better situation.
+
+  
+The next Game was a small final project of the Audio for Games course, where we got an introduction to sound design for games.
+In this game the objective was to use some sound effects. We made a racing game and included some sound effects. Exhaust gurgling when easing off the throttle or shifting, tire screeching when breaking or accelerating too hard as well as modelling the engine gearbox to achieve a somewhat realistic sound. We ended up with something that sounds similar to early 2000 racing games. We also put in some tunnels just so we could put in reverb and echo.
 
