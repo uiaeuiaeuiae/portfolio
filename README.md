@@ -14,7 +14,9 @@ I love listening to music, while programming or reading or just because. My favo
 - C++, during my research assistant work I have worked with heavily templated codebases. I feel comfortable enough in C++ and the STL to do most tasks in it, but am by no means an expert
 - HLSL, I have written many shaders in HLSL for DirectX and Unity projects, some can be seen in action in the game Kingdom Dawn under my University Projects.
 - Java, this is the language I have used the most outside of Game Development, I have created for my Bachelor Thesis a multithreaded and fully networked system using Java's Secure Sockets for BLS Elliptic Curve Threshold Signatures, wrapping the MIRACL crypto library and using their elliptic curve implementation to implement all protocol logic. The resulting system is very versatile in that it supports the most prominent elliptic curves of 100-256bits security level.
-- DirectX, I have created a bare-bones 3D Game using C++, DirectX and HLSL. Sometime I would like to try myself at creating a VR game using the OpenVR API, C++ and DirectX or another Graphics API in the future.
+- Networking, during my Bachelor's Thesis project I have implemented a close to the metal, low latency protocol with which the nodes communicated. This is just a euphemism for saying I converted messages to be sent to byte streams in an efficient way, which has less overhead than using preexisting protocol solutions.
+- Multithreading, I have good knowledge of Multithreading principles having worked with threadpools and async programming primitives like Golang's go routines or Unity's coroutines.
+- DirectX, I have created a bare-bones 3D Game using C++, DirectX and HLSL. Sometime I would like to try myself at creating a VR game using the OpenVR API, C++ and DirectX or another Graphics API.
 
 ## University Projects
 
