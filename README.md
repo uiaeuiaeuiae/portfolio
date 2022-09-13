@@ -1,5 +1,5 @@
 # Portfolio
-I'm Sam, an aspiring junior game dev from Germany.  
+I'm Sam, an aspiring game dev from Germany.  
 This temporary site is just to show some of my university and hobby game projects.
 
 ### About Me
